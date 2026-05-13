@@ -1,3 +1,4 @@
+---
 - name: Instalar Docker no Debian
   hosts: all
   become: yes
